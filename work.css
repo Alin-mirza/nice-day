@@ -1,0 +1,165 @@
+.work{
+  text-align: right;
+  padding: 150px;
+  
+
+}
+.work2{
+    
+  
+  
+
+}
+.button{
+    margin: 20px;
+    width: 120px;
+    height: 50px;
+    left: 1100px;
+    top: 578px;
+    color: rgb(31, 50, 221);
+     background-color: rgb(227, 227, 235);
+    
+    
+
+
+}
+.header{
+
+background-image: url(../images/banner/banner3.png);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+width: 100%;
+
+}
+.Life{
+    text-align: right;
+    padding: 150px;
+    margin: 10px;
+
+    
+    
+
+
+}
+.King{
+    size: 16px;
+    text-align:right;
+    padding: 120px;
+
+}
+.Dive{
+
+background-image: url(../images/person.png);
+width: 100%;
+background-repeat: no-repeat;
+}
+.text{
+
+list-style-type: circle;
+
+text-align: center;
+
+right: 70px;
+lighting-color: rgb(123, 18, 221);
+
+}
+.koke{
+ display: flex;
+     margin: 200px;
+    width: 500px;
+ 
+text-align: left;
+
+}
+.des{
+width: 50px;
+align-items: cenr;
+
+
+}
+.title{
+ text-align: center;
+
+
+}
+.skill-container{
+display: flex;
+justify-content: center;
+width: 100%;
+
+
+
+}
+.skill{
+
+margin: 40px;
+text-align: center;
+margin-bottom: 20px;
+left: 243px;
+padding: 40px;
+}
+.images{
+
+background-image: url(../images/watch.png);
+
+
+}
+.like{
+text-align:center;
+padding: 30px;
+margin: 40px;
+
+}
+.bag{
+
+background-color: black;
+    
+}
+.contact .section-title{
+text-align: end;
+margin: 10px;
+padding-bottom: 70px;
+
+
+}
+
+.gradient{
+
+    background-image: url('../images/watch.png') , linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    height: 40vh;
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 100px;
+    background-blend-mode: overlay;
+
+    /* display: flex;
+    justify-content: center;
+    background-color: blue;
+    height: 300px;
+    width: 100%; */
+}
+.footer-section{
+
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+.subscribe input{
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.subscribe button{
+    padding: 20px 30px;
+    border-radius: 5px;
+}
+.footer-section h3{
+    font-size: 18px;
+}
